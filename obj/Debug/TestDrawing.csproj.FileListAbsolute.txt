@@ -1,0 +1,11 @@
+C:\Users\admin\source\repos\TestDrawing\TestDrawing\bin\Debug\TestDrawing.exe.config
+C:\Users\admin\source\repos\TestDrawing\TestDrawing\bin\Debug\TestDrawing.exe
+C:\Users\admin\source\repos\TestDrawing\TestDrawing\bin\Debug\TestDrawing.pdb
+C:\Users\admin\source\repos\TestDrawing\TestDrawing\obj\Debug\TestDrawing.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\TestDrawing\TestDrawing\obj\Debug\TestDrawing.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\source\repos\TestDrawing\TestDrawing\obj\Debug\TestDrawing.Form1.resources
+C:\Users\admin\source\repos\TestDrawing\TestDrawing\obj\Debug\TestDrawing.Properties.Resources.resources
+C:\Users\admin\source\repos\TestDrawing\TestDrawing\obj\Debug\TestDrawing.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\TestDrawing\TestDrawing\obj\Debug\TestDrawing.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\TestDrawing\TestDrawing\obj\Debug\TestDrawing.exe
+C:\Users\admin\source\repos\TestDrawing\TestDrawing\obj\Debug\TestDrawing.pdb
